@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-tr"
+"ResourceDimensions"		"language-tr-tr"
+
+[Files]
+"C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\split.language-tr.pri"			"resources.pri"

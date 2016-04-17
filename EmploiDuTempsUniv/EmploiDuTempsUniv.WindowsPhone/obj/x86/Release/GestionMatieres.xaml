@@ -1,0 +1,160 @@
+﻿<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+  xmlns:WindowsPhone81="using:Microsoft.AdMediator.WindowsPhone81"
+  mc:Ignorable="d"
+  x:Class="EmploiDuTempsUniv.GestionMatieres"
+  FontSize="14"
+  Background="White">
+    <Page.BottomAppBar>
+        <CommandBar
+      IsSticky="False"
+      Foreground="#DEFFFFFF" Background="{ThemeResource PhoneAccentBrush}">
+            <AppBarButton x:ConnectionId='1'
+        		x:Name="Modifier"
+        		HorizontalAlignment="Stretch"
+        		Icon="Accept"
+        		IsEnabled="True"
+        		Label="Modifier"                       />
+            <AppBarButton x:ConnectionId='2'
+        		x:Name="annuler"
+        		HorizontalAlignment="Stretch"
+        		Icon="Cancel"
+        		Label="Annuler"                      />
+            <AppBarButton x:ConnectionId='3'
+        		x:Name="Supprimer"
+        		HorizontalAlignment="Stretch"
+        		Icon="Delete"
+        		Label="Supprimer"                        />
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid
+      x:Name="LayoutRoot"
+      Margin="0,-30,0,-0.333">
+        <Grid.RowDefinitions>
+            <RowDefinition
+              Height="Auto"/>
+            <RowDefinition
+              Height="*"/>
+            <RowDefinition
+              Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel
+              Grid.Row="0"
+              Margin="0,0,0,15">
+                    <StackPanel.Children>
+                        <Grid
+                      Height="75" Margin="0">
+                            <Grid.Background>
+                                <SolidColorBrush Color="{ThemeResource SystemColorControlAccentColor}"/>
+                            </Grid.Background>
+
+                            <TextBlock
+                      TextBlock.Text="Emploi du temps"
+                      TextBlock.FontSize="32"
+                      TextBlock.FontWeight="Bold" Foreground="White" Margin="0,25,0,0" Padding="15,5,0,0"/>
+                        </Grid>
+                        <Grid Background="#FFF3F3F3">
+                            <TextBlock
+                      x:Name="sousTitre"
+                      TextBlock.Text="Gérer les matières"
+                      Margin="9,7,0,7"
+                      TextBlock.FontSize="22"
+                      TextBlock.Padding="20,0,0,0"
+                      TextBlock.FontWeight="SemiBold">
+                                <TextBlock.Foreground>
+                                    <StaticResource
+                          ResourceKey="PhoneAccentBrush"/>
+                                </TextBlock.Foreground>
+                            </TextBlock>
+                        </Grid>
+                    </StackPanel.Children>
+                </StackPanel>
+        <Grid
+    		x:Name="ContentPanel"
+    		Grid.Row="1"
+    		Margin="12,0,12,0">
+            <StackPanel
+    			x:Name="form"
+    			Margin="12,0,12,0">
+                <TextBlock
+    				HorizontalAlignment="Left"
+    				TextWrapping="Wrap"
+    				Text="Matière à modifier ou à supprimer"
+    				VerticalAlignment="Top" Foreground="{StaticResource PhoneAccentBrush}"/>
+                <ComboBox x:ConnectionId='4'
+    				x:Name="matiere" RequestedTheme="Light"                                            />
+                <TextBlock
+    				TextWrapping="Wrap"
+    				Text="Intitulé"
+    				Visibility="Collapsed" Foreground="{StaticResource PhoneAccentBrush}"/>
+                <TextBox
+    				x:Name="intitule"
+    				TextWrapping="Wrap"
+    				Text="[IsCString]"
+    				Visibility="Collapsed" RequestedTheme="Light"/>
+                <TextBlock
+    				TextWrapping="Wrap"
+    				Text="Couleurs"
+    				Margin="0,0,0,10"
+    				Visibility="Collapsed" Foreground="{StaticResource PhoneAccentBrush}"/>
+                <Grid
+    				Visibility="Collapsed"
+    				Background="Gainsboro">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel
+    					Grid.Column="0"
+    					HorizontalAlignment="Center"
+    					Margin="0,0,0,10">
+                        <TextBlock
+    						TextWrapping="Wrap"
+    						Text="Fond"
+    						Margin="0,10,0,0" Foreground="{StaticResource PhoneAccentBrush}"/>
+                        <Button x:ConnectionId='6'
+    						x:Name="FondColor"
+    						Height="75"
+    						Width="75"
+    						Background="DodgerBlue"
+    						Margin="0,-10,0,0"                     BorderBrush="{x:Null}"/>
+                    </StackPanel>
+                    <StackPanel
+    					Grid.Column="1"
+    					HorizontalAlignment="Center"
+    					Margin="0,0,0,10">
+                        <TextBlock
+    						TextWrapping="Wrap"
+    						Text="Police"
+    						Margin="0,10,0,0" Foreground="{StaticResource PhoneAccentBrush}"/>
+                        <Button x:ConnectionId='5'
+    						x:Name="PoliceColor"
+    						Height="75"
+    						Width="75"
+    						Background="White"
+    						Margin="0,-10,0,0"                     BorderBrush="{x:Null}"/>
+                    </StackPanel>
+                </Grid>
+                <TextBlock
+    				x:Name="profTB"
+    				TextWrapping="Wrap"
+    				Text="Professeur"
+    				Visibility="Collapsed" Foreground="{StaticResource PhoneAccentBrush}"/>
+                <TextBox
+    				x:Name="prof"
+    				TextWrapping="Wrap"
+    				Visibility="Collapsed" RequestedTheme="Light"/>
+            </StackPanel>
+        </Grid>
+        <StackPanel
+    		x:Name="adSpace"
+    		Grid.Row="2">
+            <WindowsPhone81:AdMediatorControl x:Name="AdMediator_GestionMatiere" Height="67" Id="AdMediator-Id-748B593E-C4F9-429D-8344-83ABC956D59D" Width="400"/>
+        </StackPanel>
+    </Grid>
+</Page>
+
+

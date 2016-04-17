@@ -1,0 +1,162 @@
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\App.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\APropos.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\CreationCreneau.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\ElementPage.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\GestionMatieres.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\LibIHM\ColorDialog.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\CreationMatiere.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\MainPage.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Parametres.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.xr.xml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.exe
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.pdb
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\resources.pri
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AppxManifest.xml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.build.appxrecipe
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.Core.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.WindowsPhone81.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.Advertising.winmd
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.Advertising.xml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.WindowsPhone81.AdDuplex.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.Controls.WinPhone.XAML.pri
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.WinPhone.WinRT.pri
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.g.i.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.xaml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.exe
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.pdb
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\priconfig.xml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\layout.resfiles
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\resources.resfiles
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\pri.resfiles
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\qualifiers.txt
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\AdDuplex.Universal.Controls.WinPhone.XAML.pri.xml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\AdDuplex.Universal.WinPhone.WinRT.pri.xml
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\App.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\APropos.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\CreationCreneau.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\ElementPage.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\GestionMatieres.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\LibIHM\ColorDialog.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\CreationMatiere.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\MainPage.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Parametres.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.xr.xml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.exe
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.pdb
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\resources.pri
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AppxManifest.xml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone.build.appxrecipe
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.Core.dll
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.WindowsPhone81.dll
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.Advertising.winmd
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.Advertising.xml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.WindowsPhone81.AdDuplex.dll
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.Controls.WinPhone.XAML.pri
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\AdDuplex.Universal.WinPhone.WinRT.pri
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.g.i.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.xaml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\App.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\APropos.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationCreneau.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ElementPage.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\GestionMatieres.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\LibIHM\ColorDialog.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\CreationMatiere.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MainPage.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\Parametres.xbf
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\XamlSaveStateFile.xml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.exe
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.pdb
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\EmploiDuTempsUniv.WindowsPhone.csproj.GenerateResource.Cache
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\priconfig.xml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\priconfig.xml.intermediate
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\layout.resfiles
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\layout.resfiles.intermediate
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\resources.resfiles
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\resources.resfiles.intermediate
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\pri.resfiles
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\pri.resfiles.intermediate
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\qualifiers.txt
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\qualifiers.txt.intermediate
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\AdDuplex.Universal.Controls.WinPhone.XAML.pri.xml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\AdDuplex.Universal.WinPhone.WinRT.pri.xml
+C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ProjectArchitectures.txt

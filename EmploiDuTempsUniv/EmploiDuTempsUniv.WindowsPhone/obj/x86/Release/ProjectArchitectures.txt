@@ -1,0 +1,1 @@
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\EmploiDuTempsUniv.WindowsPhone.csproj;x86

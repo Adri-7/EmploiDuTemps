@@ -1,0 +1,189 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+  xmlns:WindowsPhone81="using:Microsoft.AdMediator.WindowsPhone81"
+  mc:Ignorable="d"
+  x:Class="EmploiDuTempsUniv.CreationCreneau"
+  FontSize="14">
+    <Page.BottomAppBar>
+        <CommandBar
+      IsSticky="False"
+      Foreground="#DEFFFFFF" Background="{ThemeResource PhoneAccentBrush}">
+            <AppBarButton
+        		x:Name="ajouter"
+        		HorizontalAlignment="Stretch"
+        		Icon="Accept"
+        		Label="Ajouter" Click="ajouter_Click"/>
+            <AppBarButton
+        		x:Name="annuler"
+        		HorizontalAlignment="Stretch"
+        		Icon="Cancel"
+        		Label="Annuler" Click="annuler_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid
+      x:Name="LayoutRoot"
+      Background="White"
+      Margin="0,-30,0,-0.333">
+        <Grid.RowDefinitions>
+            <RowDefinition
+              Height="Auto"/>
+            <RowDefinition
+              Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel
+              Grid.Row="0"
+              Margin="0">
+                    <StackPanel.Children>
+                        <Grid
+                      Height="75" Margin="0">
+                            <Grid.Background>
+                                <SolidColorBrush Color="{ThemeResource SystemColorControlAccentColor}"/>
+                            </Grid.Background>
+
+                            <TextBlock
+                      TextBlock.Text="Emploi du temps"
+                      TextBlock.FontSize="32"
+                      TextBlock.FontWeight="Bold" Foreground="White" Margin="0,25,0,0" Padding="15,5,0,0"/>
+                        </Grid>
+                        <Grid Background="#FFF3F3F3">
+                            <TextBlock
+                      x:Name="sousTitre"
+                      TextBlock.Text="Ajouter un cours"
+                      Margin="9,7,0,7"
+                      TextBlock.FontSize="22"
+                      TextBlock.Padding="20,0,0,0"
+                      TextBlock.FontWeight="SemiBold">
+                                <TextBlock.Foreground>
+                                    <StaticResource
+                          ResourceKey="PhoneAccentBrush"/>
+                                </TextBlock.Foreground>
+                            </TextBlock>
+                        </Grid>
+                    </StackPanel.Children>
+                </StackPanel>
+        <Grid
+    		x:Name="ContentPanel"
+    		Grid.Row="1"
+    		Margin="12,0">
+            <ScrollViewer
+    			x:Name="scrollview">
+                <StackPanel
+    				Margin="12,10,12,0">
+                    <TextBlock
+    					x:Name="matiereTB"
+    					HorizontalAlignment="Left"
+    					TextWrapping="Wrap"
+    					Text="Matière*"
+    					VerticalAlignment="Top" Foreground="{StaticResource PhoneAccentBrush}"/>
+                    <ComboBox
+    					x:Name="matiere" RequestedTheme="Light"/>
+                    <TextBlock
+    					x:Name="typeTB"
+    					TextWrapping="Wrap"
+    					Text="Type de cours*" Foreground="{StaticResource PhoneAccentBrush}"/>
+                    <ComboBox
+    					x:Name="type" ItemsSource="{Binding}" RequestedTheme="Light">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+
+                                    <TextBlock Text="{Binding Type}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                    <TextBlock
+    					x:Name="jourTB"
+    					HorizontalAlignment="Left"
+    					TextWrapping="Wrap"
+    					Text="Jour de la semaine*"
+    					VerticalAlignment="Top" Foreground="{StaticResource PhoneAccentBrush}"/>
+                    <ComboBox
+    					x:Name="jour" RequestedTheme="Light">
+                        <ComboBoxItem
+    						Content="Lundi"
+    						IsSelected="False"/>
+                        <ComboBoxItem
+    						Content="Mardi"/>
+                        <ComboBoxItem
+    						Content="Mercredi"/>
+                        <ComboBoxItem
+    						Content="Jeudi"/>
+                        <ComboBoxItem
+    						Content="Vendredi"/>
+                        <ComboBoxItem
+    						Content="Samedi"/>
+                        <ComboBoxItem
+    						Content="Dimanche"/>
+                    </ComboBox>
+                    <TextBlock
+    					x:Name="salleTB"
+    					TextWrapping="Wrap"
+    					Text="Salle*" Foreground="{StaticResource PhoneAccentBrush}"/>
+                    <TextBox
+    					x:Name="salle"
+    					TextWrapping="Wrap" RequestedTheme="Light"/>
+                    <TextBlock
+    					x:Name="debutTB"
+    					TextWrapping="Wrap"
+    					Text="Heure de début*" Foreground="{StaticResource PhoneAccentBrush}"/>
+                    <TimePicker
+    					x:Name="debut"
+    					Time="8:0:0"
+    					MinuteIncrement="5" RequestedTheme="Light"/>
+                    <TextBlock
+    					x:Name="finTB"
+    					TextWrapping="Wrap"
+    					Text="Heure de fin*" Foreground="{StaticResource PhoneAccentBrush}"/>
+                    <TimePicker
+    					x:Name="fin"
+    					Time="9:0:0"
+    					MinuteIncrement="5" RequestedTheme="Light"/>
+                    <StackPanel
+    					x:Name="plus"
+    					Visibility="Collapsed">
+                        <TextBlock
+    						x:Name="profTB"
+    						TextWrapping="Wrap"
+    						Text="Professeur" Foreground="{StaticResource PhoneAccentBrush}"/>
+                        <TextBox
+    						x:Name="prof"
+    						TextWrapping="Wrap" RequestedTheme="Light"/>
+                        <TextBlock
+    						x:Name="pariteTB"
+    						TextWrapping="Wrap"
+    						Text="Parité" Foreground="{StaticResource PhoneAccentBrush}"/>
+                        <ComboBox
+    						x:Name="parite" RequestedTheme="Light">
+                            <ComboBoxItem
+    							Content="Paire et Impaire"
+    							IsSelected="False"/>
+                            <ComboBoxItem
+    							Content="Paire"/>
+                            <ComboBoxItem
+    							Content="Impaire"/>
+                        </ComboBox>
+                    </StackPanel>
+                    <Button
+    					x:Name="plusButton"
+    					Content="Plus de détails" RequestedTheme="Light" Click="plus_Click"/>
+                    <StackPanel
+    					VerticalAlignment="Bottom"
+    					Margin="12,0,12,0"
+    					Background="White">
+                        <TextBlock
+    						x:Name="erreur"
+    						TextWrapping="Wrap"
+    						Foreground="Red"
+    						HorizontalAlignment="Center"/>
+                    </StackPanel>
+                    <WindowsPhone81:AdMediatorControl x:Name="AdMediator_AjouterCreneau" Height="80" Id="AdMediator-Id-88490BB6-F421-4BB1-8F77-0A0B3E04AA11"/>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>
+

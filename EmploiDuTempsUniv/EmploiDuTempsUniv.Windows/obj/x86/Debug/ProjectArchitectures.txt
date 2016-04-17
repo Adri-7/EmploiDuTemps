@@ -1,0 +1,1 @@
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.Windows\EmploiDuTempsUniv.Windows.csproj;x86
