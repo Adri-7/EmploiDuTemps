@@ -25,6 +25,7 @@ namespace EmploiDuTempsUniv
 
 		private void accueilClick(object sender, RoutedEventArgs e)
 		{
+            AdMediator_99DF98.Disable();
 			base.Frame.Navigate(typeof(MainPage));
 		}
 

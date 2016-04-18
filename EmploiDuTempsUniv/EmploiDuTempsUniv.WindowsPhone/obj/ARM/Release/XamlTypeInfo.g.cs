@@ -423,6 +423,8 @@ namespace EmploiDuTempsUniv.EmploiDuTempsUniv_WindowsPhone_XamlTypeInfo
                     _otherProviders.Add(provider); 
                     provider = new global::AdDuplex.Universal.Controls.WinPhone.XAML.AdDuplex_Universal_Controls_WinPhone_XAML_XamlTypeInfo.XamlMetaDataProvider() as global::Windows.UI.Xaml.Markup.IXamlMetadataProvider;
                     _otherProviders.Add(provider); 
+                    provider = new global::SOMAWP81.SOMAWP81_XamlTypeInfo.XamlMetaDataProvider() as global::Windows.UI.Xaml.Markup.IXamlMetadataProvider;
+                    _otherProviders.Add(provider); 
                 }
                 return _otherProviders;
             }
@@ -969,8 +971,5 @@ namespace EmploiDuTempsUniv.EmploiDuTempsUniv_WindowsPhone_XamlTypeInfo
         }
     }
 }
-
-
-
 
 

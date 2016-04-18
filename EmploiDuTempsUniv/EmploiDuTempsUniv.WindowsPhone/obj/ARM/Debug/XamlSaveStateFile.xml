@@ -1,13 +1,15 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\emploidutempsuniv\emploidutempsuniv.windowsphone\obj\arm\debug\intermediatexaml\emploidutempsuniv.windowsphone.exe" HashGuid="bf07873c-08ec-815b-dd4f-5ea15a4a169f" />
+    <LocalAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\emploidutempsuniv\emploidutempsuniv.windowsphone\obj\arm\debug\intermediatexaml\emploidutempsuniv.windowsphone.exe" HashGuid="4bd16a62-981d-adac-373f-e47a36783507" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.core.dll" HashGuid="5d2543e1-177e-4eed-75c2-ba832135a8aa" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.windowsphone81.dll" HashGuid="4b6f1fb2-bc23-4a0a-dc60-f20076c5a146" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\arm\microsoft.admediator.windowsphone81.microsoftadvertising.dll" HashGuid="696d18ee-c90f-a4fa-8a48-f7dcc85562b4" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.advertising.winmd" HashGuid="0e298d0e-35bc-69c1-ce53-3ec79c031e52" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
-    <ReferenceAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\packages\adduplexwinphone81.9.0.0.7\lib\portable-win81+wpa81\adduplex.universal.controls.winphone.xaml.winmd" HashGuid="22c717c4-2eaf-9469-e264-faee74ee6371" />
-    <ReferenceAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\packages\adduplexwinphone81.9.0.0.7\lib\portable-win81+wpa81\adduplex.universal.winphone.winrt.winmd" HashGuid="39dce1c1-e871-0831-e41b-0efe9ea451a4" />
+    <ReferenceAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\packages\adduplexwinphone81.9.0.0.10\lib\portable-win81+wpa81\adduplex.universal.controls.winphone.xaml.winmd" HashGuid="0b79cd92-1225-36cf-2c93-96b09f404db7" />
+    <ReferenceAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\packages\adduplexwinphone81.9.0.0.10\lib\portable-win81+wpa81\adduplex.universal.winphone.winrt.winmd" HashGuid="2158cec2-fc64-083b-2e40-de2a52c98ffc" />
     <ReferenceAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\packages\microsoft.admediator.windowsphone81.adduplex.2.1.3\lib\wpa\microsoft.admediator.windowsphone81.adduplex.dll" HashGuid="914b6f98-e5be-edff-051c-faa3852fa08f" />
+    <ReferenceAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\packages\microsoft.admediator.windowsphone81.smaato.2.1.3\lib\wpa\microsoft.admediator.windowsphone81.smaato.dll" HashGuid="c988aa06-977d-1ce1-262a-692a16de5168" />
+    <ReferenceAssembly PathName="c:\users\adri-\documents\visual studio 2015\projects\emploidutempsuniv\packages\somaw81_package.1.6.1\lib\wpa81\somawp81.dll" HashGuid="bdac38f4-de42-fba8-e9ab-61490f239d14" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

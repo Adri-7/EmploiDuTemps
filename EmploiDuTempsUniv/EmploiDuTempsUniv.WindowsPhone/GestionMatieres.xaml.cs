@@ -33,6 +33,7 @@ namespace EmploiDuTempsUniv
 
 		private void annuler_Click(object sender, RoutedEventArgs e)
 		{
+            AdMediator_GestionMatiere.Disable();
 			base.Frame.Navigate(typeof(MainPage));
 		}
 

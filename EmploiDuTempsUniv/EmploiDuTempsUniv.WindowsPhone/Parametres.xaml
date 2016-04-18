@@ -83,6 +83,10 @@
         			x:Name="dimancheTS"
         			Header="Afficher le Dimanche"
         			VerticalAlignment="Stretch" RequestedTheme="Light" Toggled="dimancheTS_Toggled"/>
+            <ToggleSwitch
+        			x:Name="adsTS"
+        			Header="Afficher les erreurs des pubs (debug)"
+        			VerticalAlignment="Stretch" RequestedTheme="Light" Toggled="adsTS_Toggled"/>
         </StackPanel>
         <StackPanel
         		x:Name="adSpace"

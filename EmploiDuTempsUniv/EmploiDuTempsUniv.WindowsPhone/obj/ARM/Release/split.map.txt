@@ -5,6 +5,10 @@
 
 [Files]
 "C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\split.pri"			"resources.pri"
+"C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\PackageLayout\SOMAWP81\SOMAWP81.xr.xml"			"SOMAWP81\SOMAWP81.xr.xml"
+"C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\PackageLayout\SOMAWP81\SomaAdViewer.xbf"			"SOMAWP81\SomaAdViewer.xbf"
+"C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\PackageLayout\SOMAWP81\SomaAdViewer-300x250.xbf"			"SOMAWP81\SomaAdViewer-300x250.xbf"
+"C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\PackageLayout\SOMAWP81\AdViewer.xbf"			"SOMAWP81\AdViewer.xbf"
 "C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\PackageLayout\Parametres.xbf"			"Parametres.xbf"
 "C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\PackageLayout\Microsoft.Advertising\Themes\Generic.xbf"			"Microsoft.Advertising\Themes\Generic.xbf"
 "C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\PackageLayout\Microsoft.Advertising\ormma.js"			"Microsoft.Advertising\ormma.js"

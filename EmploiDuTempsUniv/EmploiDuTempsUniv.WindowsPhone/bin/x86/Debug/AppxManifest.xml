@@ -7,7 +7,7 @@
 
     Pour plus d'informations sur les fichiers manifeste, consultez http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="51136AdrienCoppola.EmploiDuTemps" Publisher="CN=24D94C68-B101-40B5-A4BA-3107F685D603" Version="1.1.2.1" ProcessorArchitecture="x86" />
+  <Identity Name="51136AdrienCoppola.EmploiDuTemps" Publisher="CN=24D94C68-B101-40B5-A4BA-3107F685D603" Version="1.1.2.3" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="6c5a9fd3-7a83-4aed-8b25-5de7857d238f" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Emploi Du Temps</DisplayName>
@@ -67,22 +67,22 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>CLRHost.dll</Path>
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.AdDuplexClient" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.InterstitialAd" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.Tracking.AdDuplexTrackingSDK" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.AdControl" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.AdDuplex_Universal_Controls_WinPhone_XAML_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.AdLoadedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialAdClickEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialImageLoadedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.AdInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.NoAdEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.InterstitialAd" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.AdDuplexClient" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.WinPhone.XAML.AdControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Core.AdCoveredEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.AdClickEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialAdLoadingErrorEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialAdLoadedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialAdInfo" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialAdClickEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.NoAdEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialImageLoadedEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.AdLoadingErrorEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Core.AdCoveredEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialAdLoadedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.AdLoadedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.AdInfo" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.WinPhone.WinRT.Models.InterstitialAdInfo" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>
@@ -93,7 +93,7 @@
     <build:Item Name="VisualStudio" Version="14.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
     <build:Item Name="OperatingSystem" Version="10.0.10586.0 (th2_release.151029-1700)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.24720.0" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.25123.0" />
     <build:Item Name="ProjectGUID" Value="{75D839B7-0A59-4F2D-B5F2-6FFE24D60C52}" />
     <build:Item Name="Microsoft.Windows.UI.Xaml.81.Build.Tasks.dll" Version="14.0.22705.1" />
     <build:Item Name="Microsoft.AdMediator81" Version="1.0" />

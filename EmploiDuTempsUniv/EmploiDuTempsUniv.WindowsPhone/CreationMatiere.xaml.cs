@@ -31,6 +31,7 @@ namespace EmploiDuTempsUniv
 
         private void annuler_Click(object sender, RoutedEventArgs e)
         {
+            ad.Disable();
             base.Frame.Navigate(typeof(MainPage));
         }
 
@@ -59,6 +60,7 @@ namespace EmploiDuTempsUniv
             SolidColorBrush solidColorBrush = this.PoliceColor.Background as SolidColorBrush;
             if (Matieres.getInstance().ajouterMatiere(this.intitule.Text, background.Color, solidColorBrush.Color))
             {
+                ad.Disable();
                 base.Frame.Navigate(typeof(MainPage));
                 return;
             }

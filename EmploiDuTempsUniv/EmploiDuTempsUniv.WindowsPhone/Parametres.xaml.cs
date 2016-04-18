@@ -18,8 +18,9 @@ namespace EmploiDuTempsUniv
 		private const string HELPSUP = "Avec le mode actuel, les types de cours sont TP, TD et CM. De plus, le professeur peut être saisi pour chaque cours.";
 
 		private bool superieur = true;
-		private bool samedi;
-		private bool dimanche;
+		private bool samedi = false;
+		private bool dimanche = false;
+        private bool debugAds = false;
 
 		private ApplicationDataContainer roamingSettings = ApplicationData.Current.RoamingSettings;
 
@@ -48,18 +49,25 @@ namespace EmploiDuTempsUniv
             {
                 this.dimanche = (bool)this.roamingSettings.Values["dimanche"];
             }
+            if (this.roamingSettings.Values["debugAds"] != null)
+            {
+                this.debugAds = (bool)this.roamingSettings.Values["debugAds"];
+            }
             this.modeTS.IsOn = this.superieur;
             this.modeTS_Toggled(null, null);
             this.samediTS.IsOn = this.samedi;
             this.samediTS_Toggled(null, null);
             this.dimancheTS.IsOn = this.dimanche;
             this.dimancheTS_Toggled(null, null);
+            this.adsTS.IsOn = this.debugAds;
+            this.adsTS_Toggled(null, null);
         }
 
         /* --------------------- Events handlers --------------------------- */
 
         private void accueilClick(object sender, RoutedEventArgs e)
 		{
+            AdMediator_Parametres.Disable();
 			base.Frame.Navigate(typeof(MainPage));
 		}
 
@@ -103,5 +111,18 @@ namespace EmploiDuTempsUniv
 			}
 			this.roamingSettings.Values["dimanche"] = this.dimanche;
 		}
-	}
+
+        private void adsTS_Toggled(object sender, RoutedEventArgs e)
+        {
+            if (!this.adsTS.IsOn)
+            {
+                this.debugAds = false;
+            }
+            else
+            {
+                this.debugAds = true;
+            }
+            this.roamingSettings.Values["debugAds"] = this.debugAds;
+        }
+    }
 }

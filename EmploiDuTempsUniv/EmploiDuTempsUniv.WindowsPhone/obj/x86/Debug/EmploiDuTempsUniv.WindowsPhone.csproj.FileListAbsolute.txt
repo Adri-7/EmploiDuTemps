@@ -79,3 +79,8 @@ C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuT
 C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\x86\Debug\ElementPage.g.cs
 C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\x86\Debug\ElementPage.xaml
 C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\x86\Debug\ElementPage.xbf
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\x86\Debug\Microsoft.AdMediator.WindowsPhone81.Smaato.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\x86\Debug\SOMAWP81.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\x86\Debug\SOMAWP81.pdb
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\x86\Debug\SOMAWP81.pri
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\x86\Debug\SOMAWP81.pri.xml

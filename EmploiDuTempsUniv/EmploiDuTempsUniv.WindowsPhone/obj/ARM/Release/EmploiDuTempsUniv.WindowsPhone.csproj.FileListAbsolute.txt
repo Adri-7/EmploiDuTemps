@@ -160,3 +160,8 @@ C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Re
 C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\AdDuplex.Universal.Controls.WinPhone.XAML.pri.xml
 C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\AdDuplex.Universal.WinPhone.WinRT.pri.xml
 C:\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\Microsoft.AdMediator.WindowsPhone81.Smaato.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\SOMAWP81.dll
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\SOMAWP81.pdb
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\SOMAWP81.pri
+C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\obj\ARM\Release\SOMAWP81.pri.xml

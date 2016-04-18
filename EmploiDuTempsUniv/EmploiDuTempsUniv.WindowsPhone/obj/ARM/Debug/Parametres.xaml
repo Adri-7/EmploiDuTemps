@@ -83,6 +83,10 @@
         			x:Name="dimancheTS"
         			Header="Afficher le Dimanche"
         			VerticalAlignment="Stretch" RequestedTheme="Light"                             />
+            <ToggleSwitch x:ConnectionId='5'
+        			x:Name="adsTS"
+        			Header="Afficher les erreurs des pubs (dev)"
+        			VerticalAlignment="Stretch" RequestedTheme="Light"                        />
         </StackPanel>
         <StackPanel
         		x:Name="adSpace"

@@ -1,3 +1,3 @@
-MainPackage=C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone_1.1.2.1_ARM.appx
-SymbolPackage=C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\AppPackages\EmploiDuTempsUniv.WindowsPhone_1.1.2.1_Test\EmploiDuTempsUniv.WindowsPhone_1.1.2.1_ARM.appxsym
-ResourcePack=C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone_1.1.2.1_language-fr.appx
+MainPackage=C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone_1.1.2.3_ARM.appx
+SymbolPackage=C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\AppPackages\EmploiDuTempsUniv.WindowsPhone_1.1.2.3_Test\EmploiDuTempsUniv.WindowsPhone_1.1.2.3_ARM.appxsym
+ResourcePack=C:\Users\adri-\Documents\Visual Studio 2015\Projects\EmploiDuTempsUniv\EmploiDuTempsUniv\EmploiDuTempsUniv.WindowsPhone\bin\ARM\Release\EmploiDuTempsUniv.WindowsPhone_1.1.2.3_language-fr.appx
