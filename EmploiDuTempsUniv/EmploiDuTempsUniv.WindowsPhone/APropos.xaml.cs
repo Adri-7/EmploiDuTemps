@@ -19,9 +19,13 @@ namespace EmploiDuTempsUniv
             AdMediator_99DF98.AdMediatorFilled += AdMediatorHandlers.AdMediator_Bottom_AdFilled;
             AdMediator_99DF98.AdMediatorError += AdMediatorHandlers.AdMediator_Bottom_AdMediatorError;
             AdMediator_99DF98.AdSdkEvent += AdMediatorHandlers.AdMediator_Bottom_AdSdkEvent;
-            AdMediatorHandlers.InitAdsOptionalSize(AdMediator_99DF98);
 
-        }
+            Loaded += delegate
+            {
+                AdMediatorHandlers.InitAdsOptionalSize(AdMediator_99DF98);
+            };
+
+        } 
 
 		private void accueilClick(object sender, RoutedEventArgs e)
 		{

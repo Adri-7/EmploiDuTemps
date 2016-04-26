@@ -69,7 +69,7 @@ namespace EmploiDuTempsUniv
 
         public static void InitAdsOptionalSize(Microsoft.AdMediator.WindowsPhone81.AdMediatorControl control)
         {
-            if(control.Height >= 80 && control.ActualWidth >= 480)
+            if(control.Height >= 80 && control.ActualWidth >= 475)
             {
                 control.AdSdkOptionalParameters[AdSdkNames.MicrosoftAdvertising]["Width"] = 480;
                 control.AdSdkOptionalParameters[AdSdkNames.MicrosoftAdvertising]["Height"] = 80;
