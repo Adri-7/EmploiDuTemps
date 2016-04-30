@@ -973,4 +973,3 @@ namespace EmploiDuTempsUniv.EmploiDuTempsUniv_WindowsPhone_XamlTypeInfo
 }
 
 
-

@@ -39,37 +39,10 @@
     </UserControl.Resources>
 
     <Grid x:Name="adGrid"
-          Width="320"
-          Height="50">
-        <Grid Name="webViewPanel">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="auto" />
-            </Grid.RowDefinitions>
-            <WebView x:Name="webView"
-                     Visibility="Collapsed"
-                     VerticalAlignment="Stretch"
-                     HorizontalAlignment="Stretch"
-                     IsHitTestVisible="True"
-                     ScrollViewer.IsHorizontalRailEnabled="False"
-                     ScrollViewer.HorizontalScrollBarVisibility="Disabled"
-                     ScrollViewer.IsVerticalRailEnabled="False"
-                     ScrollViewer.VerticalScrollBarVisibility="Disabled"
-                     ScrollViewer.IsHorizontalScrollChainingEnabled="False"
-                     ScrollViewer.VerticalScrollMode="Disabled"
-                     Grid.Column="0" />
-            <Rectangle Height="80"
-                       HorizontalAlignment="Center"
-                       Margin="0"
-                       Name="rectangleForGestures"
-                       Stroke="{x:Null}"
-                       StrokeThickness="1"
-                       VerticalAlignment="Center"
-                       Width="400"
-                       Opacity=".50"
-                       Fill="Transparent"
-                       Grid.Column="0"
-                       Tapped="rectangleForGestures_Tapped" />
-        </Grid>
+          Height="80">
+        <WebView x:Name="webView"
+                 Visibility="Collapsed" 
+                 HorizontalAlignment="Center"/>
         <Image Name="imageAdImage"
                Margin="0"
                Width="480"

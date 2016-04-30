@@ -5,8 +5,8 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             d:DesignHeight="300"
-             d:DesignWidth="250"
+             d:DesignHeight="333"
+             d:DesignWidth="400"
              Loaded="UserControl_Loaded"
              Unloaded="userControl_Unloaded">
 
@@ -40,42 +40,13 @@
     </UserControl.Resources>
 
     <Grid x:Name="adGrid"
-          Height="250">
-        <Grid Name="webViewPanel">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="auto" />
-            </Grid.RowDefinitions>
-            <WebView x:Name="webView"
-                     Width="300"
-                     Height="250"
-                     Visibility="Collapsed"
-                     VerticalAlignment="Stretch"
-                     HorizontalAlignment="Stretch"
-                     IsHitTestVisible="True"
-                     ScrollViewer.IsHorizontalRailEnabled="False"
-                     ScrollViewer.HorizontalScrollBarVisibility="Disabled"
-                     ScrollViewer.IsVerticalRailEnabled="False"
-                     ScrollViewer.VerticalScrollBarVisibility="Disabled"
-                     ScrollViewer.IsHorizontalScrollChainingEnabled="False"
-                     ScrollViewer.VerticalScrollMode="Disabled"
-                     Grid.Column="0"/>
-            <Rectangle Height="250"
-                       HorizontalAlignment="Center"
-                       Margin="0"
-                       Name="rectangleForGestures"
-                       Stroke="{x:Null}"
-                       StrokeThickness="1"
-                       VerticalAlignment="Center"
-                       Width="300"
-                       Opacity=".50"
-                       Fill="Transparent"
-                       Tapped="rectangleForGestures_Tapped"
-                       Grid.Column="0" />
-        </Grid>
+          Height="333">
+        <WebView x:Name="webView"
+                 Visibility="Collapsed" />
         <Image Name="imageAdImage"
                Margin="0"
-               Width="300"
-               Height="250"
+               Width="480"
+               Height="333"
                Stretch="Uniform"
                VerticalAlignment="Center"
                ImageFailed="imageAdImage_ImageFailed"

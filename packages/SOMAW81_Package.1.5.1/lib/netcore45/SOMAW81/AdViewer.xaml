@@ -10,10 +10,9 @@
              Loaded="UserControl_Loaded"
              Unloaded="UserControl_Unloaded">
 
-    <Grid Name="LayoutRoot"
-          Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Name="LayoutRoot">
         <Grid.RowDefinitions>
-            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
             <RowDefinition Height="auto" />
             <RowDefinition Height="auto" />
         </Grid.RowDefinitions>
@@ -22,11 +21,7 @@
               Visibility="Collapsed">
             <WebView Name="webView"
                      Visibility="Visible"
-                     NavigationCompleted="webView_NavigationCompleted"
-                     NavigationFailed="webView_NavigationFailed"
-                     NavigationStarting="webView_NavigationStarting" 
-                     VerticalAlignment="Bottom"
-                     />
+                     NavigationCompleted="webView_NavigationCompleted" />
             <Rectangle Height="80"
                        Opacity=".3"
                        VerticalAlignment="Top">
@@ -46,40 +41,22 @@
                     Style="{StaticResource NavigationBackButtonNormalStyle}"
                     Margin="20,20,0,0" />
         </Grid>
-        
-        <WebView Name="interstitialView"
-                    Width="1024"
-                    Height="768"
-                    Visibility="Collapsed"
-                    VerticalAlignment="Stretch"
-                    HorizontalAlignment="Stretch"
-                    IsHitTestVisible="True"
-                    ScrollViewer.IsHorizontalRailEnabled="False"
-                    ScrollViewer.HorizontalScrollBarVisibility="Disabled"
-                    ScrollViewer.IsVerticalRailEnabled="False"
-                    ScrollViewer.VerticalScrollBarVisibility="Disabled"
-                    ScrollViewer.IsHorizontalScrollChainingEnabled="False"
-                    ScrollViewer.VerticalScrollMode="Disabled"
-                    Grid.Column="0"/>
-        <Rectangle Height="auto"
-                       HorizontalAlignment="Stretch"
-                       Visibility="Collapsed"
-                       Margin="0"
-                       Name="imageInterstitialAdIMage"
-                       Stroke="{x:Null}"
-                       StrokeThickness="1"
-                       VerticalAlignment="Stretch"
-                       Width="auto"
-                       Opacity=".50"
-                       Fill="Transparent"
-                       Grid.Column="0"
-                       Tapped="imageInterstitialAdIMage_Tapped" />
+
+        <Image Name="imageInterstitialAdIMage"
+               Grid.Row="1"
+               Visibility="Collapsed"
+               Stretch="None"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Center"
+               Tapped="imageInterstitialAdIMage_Tapped"
+               ImageOpened="imageInterstitialAdIMage_ImageOpened"
+               ImageFailed="imageInterstitialAdIMage_ImageFailed" />
 
         <Rectangle x:Name="rectangleButtonStrip" 
                    Visibility="Collapsed"
                    Height="80"
                    Opacity=".3"
-                   Grid.Row="0"
+                   Grid.Row="1"
                    VerticalAlignment="Top">
             <Rectangle.Fill>
                 <LinearGradientBrush EndPoint="0.5,1"
@@ -104,7 +81,7 @@
                        Tapped="textBlockMessage_Tapped" />
         </Grid>
         <Button x:Name="buttonCloseAd"
-                Grid.Row="0"
+                Grid.Row="1"
                 Visibility="Collapsed"
                 VerticalAlignment="Top"
                 Tapped="buttonCloseAd_Tapped"
