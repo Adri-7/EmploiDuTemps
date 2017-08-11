@@ -1,7 +1,7 @@
 # Emploi Du Temps
 Windows Phone app to manage and consult a school schedule (French only).
 
-> This project have been started as a school project. It is currently not maintained anymore.
+> This project have been started as a school project in 2015. It is currently not maintained anymore but still available in Windows Store.
 
 ## Description
 
